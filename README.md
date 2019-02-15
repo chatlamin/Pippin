@@ -2,8 +2,7 @@
 
 ## Установка
 
-Установите python 3 (https://www.python.org/downloads/)
-
+Установите python 3 (https://www.python.org/downloads/)  
 Установите пакеты:
 
 + pyaml (pip install pyaml)
@@ -11,8 +10,7 @@
 
 ## Настройка
 
-Впишите построчно в файлах .txt список ip адресов
-
+Впишите построчно в файлах .txt список ip адресов  
 Измените в файле .yml параметры-примеры на свои:
 
 + community
