@@ -7,6 +7,7 @@
 Установите пакеты:
 
 ⋅⋅*pyaml (pip install pyaml)
+
 ⋅⋅*ecks3 (https://github.com/alexanderfefelov/ecks3)
 
 ## Настройка
@@ -16,4 +17,5 @@
 Измените в файле .yml параметры-примеры на свои:
 
 ⋅⋅*community
+
 ⋅⋅*oid
