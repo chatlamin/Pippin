@@ -7,7 +7,6 @@
 Установите пакеты:
 
 + pyaml (pip install pyaml)
-
 + ecks3 (https://github.com/alexanderfefelov/ecks3)
 
 ## Настройка
