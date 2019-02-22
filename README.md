@@ -15,3 +15,7 @@
 
 + community
 + oid
+
+### Запуск (с выводом результатов в файл)
+python snmpto.py>result.txt
+
